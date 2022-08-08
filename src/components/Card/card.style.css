@@ -1,0 +1,13 @@
+.card {
+  padding-top: 40px;
+  background-color: rgb(205, 205, 205);
+  text-align: center;
+  border-radius: 20px;
+  min-height: 350px;
+  transition: all 1s ease;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
